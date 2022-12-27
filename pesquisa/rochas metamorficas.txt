@@ -1,0 +1,25 @@
+Rocha metamórfica é um tipo de rocha derivado da metamorfose (transformação) de rochas magmáticas ou sedimentares que sofrem modificação em sua composição atômica, devido à influência das diferentes condições do ambiente em que estão inseridas em comparação aos locais onde foram originalmente formadas. Dessa maneira, origina-se uma nova rocha, com novas propriedades e outra composição mineral.
+Na maioria dos casos as rochas metamórficas formam-se a partir de outras rochas, que são submetidas a pressões intensas ou elevadas temperaturas. Tal processo ocorre naturalmente devido ao movimento intenso e constante do núcleo terrestre, provocando o movimento períódico da crosta do planeta (a cobertura de terra e rochas que compôem a região externa do planeta). O movimento da crosta, por sua vez, dá início a um rearranjo nas rochas localizadas na parte superior, sendo, que quando as rochas magmáticas e as sedimentares são empurradas a níveis inferiores, dando origem assim ao processo de formação da rocha metamórfica.
+O metamorfismo, nome dado ao fenômeno descrito acima, é passível de desenvolvimento em diversos ambientes da crosta, variando na extensão, profundidade e o grau de modificação das rochas. Os fatores determinantes para a ocorrência do metamorfismo são:
+
+tipos de rochas metamórficas a serem formadas;
+localização e extensão na crosta terrestre;
+parâmetros físicos envolvidos;
+mecanismo determinante para a conjunção destes parâmetros;
+São três os cenários de ocorrência do fenômeno metamórfico, a saber:
+
+a) o metamorfismo regional ou dinamotermal - ocorre em grande extensões bem como em grandes profundidades na crosta. Suas transformações estão relacionadas à ação combinada da temperatura, pressão litosférica e pressão dirigida sendo aplicadas durante milhões de anos. As rochas são fortemente dobradas e falhadas, sofrem recristalização, apresentando estrutura foliada. São exemplos: ardósias, xistos, gnaisses e anfibolitos.
+
+b) metamorfismo de contato ou termal - resultado apenas da ação da temperatura, através do calor cedido por intrusão magmática que corta uma sequência de rochas sedimentares encaixantes, metamórficas ou magmáticas. Através destes cortes e do constante contato entre as superfícies teremos como resultado o fenômeno metamórfico. As rochas deste grupo são conhecidas por "hornfels".
+
+c) metamorfismo dinâmico ou cataclástico - neste caso, o fator determinante e exclusivo é o atrito. É desenvolvido através de longas faixas e estreita adjacência de falhas, onde pressões de grande intensidade causam movimentações e rupturas na crosta.
+
+Foram reconhecidos, porém, outros tipos de metamorfismo, que podem às vezes confundir-se com os três tipos já citados, apresentando, porém, características diferenciais que permitem distingui-los, tornando-os ocorrências à parte. Estes são:
+
+a) metamorfismo de soterramento - característica de bacias sedimentares em subsidência. Resultado de espessas camadas de rochas sedimentares e vulcânicas a grandes profundidades, podendo chegar a 300oC.
+
+b) metamorfismo hidrotermal - resultado da infiltração de águas quentes através das fraturas e grânulos da rocha. Os minerais são cristalizados a temperaturas de 100 a 370oC
+
+c) metamorfismo de fundo oceânico - característico dos rifts das cadeias meso-oceânicas, com a crosta recém formada e quente que interage com a água fria do mar.
+
+d) metamorfismo de impacto - ocorre em regiões limitadas da crosta, em locais de impacto de grandes meteoritos. A energia de impacto é dissipada na forma de ondas de choque, que deslocam as rochas, formando a cratera de impacto e de calor, vaporizando o meteorito e fundindo as rochas.

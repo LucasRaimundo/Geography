@@ -1,0 +1,34 @@
+relevo
+	montanhas
+	planaltos
+	planicie
+	depressão
+
+tipos de rochas
+	metamorficas
+	sedimentares
+	magmaticas
+
+climas
+	clima equatorial 
+	tropical
+	subtropical
+	temperado
+	meditarraneo 
+	desertico
+	semiarido
+
+vegetação
+	cerrado
+	caatinga	
+	
+
+solos
+	argiloso
+	humoso
+	calcario
+	arenoso
+
+Prova
+	Entrar
+	Cadastrar
